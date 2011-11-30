@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="powermock-mockito-testng-1.4.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/powermock-mockito-1.4.10-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/objenesis-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/mockito-all-1.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/testng-6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/jcommander-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/snakeyaml-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/cglib-nodep-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_test/powermock-mockito-testng-1.4.10/javassist-3.15.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

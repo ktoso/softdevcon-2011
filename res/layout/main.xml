@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <TextView
+            android:id="@+id/hello"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello Softdevcon!"
+            android:singleLine="true"
+            />
+    <!-- todo replace this with a reference -->
+
+    <LinearLayout android:orientation="horizontal"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent">
+        <EditText android:id="@+id/msg"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent"
+                  android:layout_weight="10"/>
+        <Button android:id="@+id/send"
+                android:text="tweet!"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+    </LinearLayout>
+
+    <ListView android:id="@+id/tweets"
+              android:layout_height="fill_parent"
+              android:layout_width="fill_parent"/>
+</LinearLayout>
+

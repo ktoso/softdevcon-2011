@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/acra-4.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guice-2.0-no_aop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/janbanery-android-1.2-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/janbanery-core-1.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/joda-time-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/roboguice-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-nop-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
